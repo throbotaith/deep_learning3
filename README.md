@@ -1,7 +1,4 @@
 # deep_learning3
-
-# deep_learning_2
-
 It contains code,report,optimal weights
 
 # Project Details
