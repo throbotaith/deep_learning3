@@ -6,8 +6,7 @@ It contains code,report,optimal weights
 Environment:
 multi agent version environment
 
-Continuous space
-33 variables for arm position coordinates, rotation, velocity, and each velocity
+
 Observation space
 The eight racquets are heightened by variables such as position and velocity.
 
