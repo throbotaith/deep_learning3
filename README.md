@@ -29,9 +29,12 @@ https://github.com/udacity/deep-reinforcement-learning
 2.Download Unity enviroment
 visit below web site and download.
 for Linux：https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip
+
 for Mac OSX：https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip
+
 for Windows10 x32:https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip
-for Windows10 x64:https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip
+
+for Windows10 x64:https://s3-us-west-1.amazonaws.com/udacitydrlnd/P3/Tennis/Tennis_Windows_x86_64.zip
 
 # instruction
 
