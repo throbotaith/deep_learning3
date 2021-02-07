@@ -68,5 +68,7 @@ To set up your python environment to run the code in this repository, follow the
 # instruction
 
 1.Open the jupyter notebook Tennis_prohect.ipynb and Select the "Kernel" section in the top menu and change the kernel to "drland" which is the environment you just created.
+
 2. Click the Run button on the cell where the code is written.
+
 3.You will see the result.
